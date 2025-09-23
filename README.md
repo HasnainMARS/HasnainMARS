@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **AI/ML and Flutter**
 - 🌱 I’m currently learning **Backend**
   
-- 💬 Ask me about **AIML,Deep Learning Flutter,Dart**
+- 💬 Ask me about **AI/ML,Deep Learning and Flutter,Dart**
 
 - 📫 How to reach me **hasnain.edu1@gmail.com**
 

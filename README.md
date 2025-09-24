@@ -76,3 +76,4 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake.svg?v=2" />
   </picture>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainmars&show_icons=true&locale=en&layout=compact" alt="hasnainmars" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainmars&show_icons=true&locale=en" alt="hasnainmars" /></p> </div>

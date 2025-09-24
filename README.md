@@ -1,27 +1,28 @@
 <!-- Top Banner GIF (Upload your own in assets/ folder or use a hosted .gif link) -->
 <p align="center">
-    <img src="assets/ai_banner.gif" alt="AI Banner" width="100%" />
+  <img src="assets/ai_banner.gif" alt="AI Banner" width="80%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hasnain</h1>
-<h3 align="center">A passionate FullStack & AI/ML developer from Earth</h3>
+<h3 align="center">A passionate FullStack & AI/ML developer from Pakistan</h3>
 
 ---
 
-<!-- Right side GIF (place your own gif in assets folder or use a direct gif link) -->
+### 👨‍💻 About Me
+👋 Hi, I’m **Hasnain**, a FullStack Developer & AI/ML enthusiast from Pakistan.  
+💻 Skilled in **Flutter, Dart, and modern backend technologies**.  
+🧠 Focused on **Machine Learning, Deep Learning, and AI research**.  
+📊 Experienced with **Python, TensorFlow, PyTorch, and Scikit-learn**.  
+🚀 Passionate about building **scalable, intelligent applications**.  
+🌱 Currently expanding my expertise in **backend development**.  
+📫 Reach out: **hasnain.edu1@gmail.com**  
+
+---
+
+<!-- Right side GIF (Upload your own gif or use direct URL) -->
 <img align="right" alt="AI Developer" width="250" src="assets/ai_coding.gif" />
 
-👋 Hi, I’m Hasnain, a FullStack Developer & AI/ML enthusiast from Pakistan.
-💻 Skilled in Flutter, Dart, and modern backend technologies.
-🧠 Focused on Machine Learning, Deep Learning, and AI research.
-📊 Experienced with Python, TensorFlow, PyTorch, and Scikit-learn.
-🚀 Passionate about building scalable, intelligent applications.
-🌱 Currently expanding my expertise in backend development.
-📫 Reach out: hasnain.edu1@gmail.com.
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
+### 🌐 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-hasnian-itsoftware" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
@@ -36,7 +37,7 @@
 
 ---
 
-<h3 align="left">🧠 Languages, Tools & AI/ML Stack:</h3>
+### 🧠 Languages, Tools & AI/ML Stack
 <p align="left">
   <!-- Core Dev -->
   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
@@ -62,9 +63,10 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainmars&show_icons=true&locale=en&layout=compact&theme=radical" alt="hasnainmars" /></p>
+### 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainmars&show_icons=true&locale=en&layout=compact&theme=radical" alt="hasnainmars" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainmars&show_icons=true&locale=en&theme=radical" alt="hasnainmars" /></p>
 

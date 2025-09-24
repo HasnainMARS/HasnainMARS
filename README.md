@@ -1,78 +1,31 @@
-<!-- Top Banner GIF (Upload your own in assets/ folder or use a hosted .gif link) -->
-<p align="center">
-  <img src="assets/ai_banner.gif" alt="AI Banner" width="85%" />
-</p>
-
+this code
 <h1 align="center">Hi 👋, I'm Hasnain</h1>
-<h3 align="center">🚀 FullStack Developer AI/ML Enthusiast</h3>
+<h3 align="center">A passionate FullStack developer from Pakistan</h3>
 
----
+###
 
-## 👨‍💻 About Me  
-- 👋 Hi, I’m **Hasnain**, a FullStack Developer & AI/ML enthusiast from Earth.  
-- 💻 Skilled in **Flutter, Dart, and modern backend technologies**.  
-- 🧠 Focused on **Machine Learning, Deep Learning, and AI research**.  
-- 📊 Experienced with **Python, TensorFlow, PyTorch, and Scikit-learn**.  
-- 🚀 Passionate about building **scalable, intelligent applications**.  
-- 🌱 Currently expanding my expertise in **backend development**.  
-- 📫 Reach out: **hasnain.edu1@gmail.com**  
+<img align="right" wight="200" height="250" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F93484903%2FPixel-Jeff-X-Divoom%2Fmodules%2F540194037&psig=AOvVaw0QnPEdBp_06XGrZK2AtzjS&ust=1758811732816000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC1przS8Y8DFQAAAAAdAAAAABAW"  />
 
----
+- 🔭 I’m currently working on **AI/ML and Flutter**
+- 🌱 I’m currently learning **Backend**
+  
+- 💬 Ask me about **AI/ML,Deep Learning and Flutter,Dart**
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://linkedin.com/in/mohammad-hasnian-itsoftware" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/hasnain.developer" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/hasnain._.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:hasnain.edu1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+- 📫 How to reach me **hasnain.edu1@gmail.com**
+
+- 😄 Fun fact **I'm comming to teen**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedwww.linkedin.com/in/mohammad-hasnian-itsoftwarein.com/in/mohammad-hasnian-itsoftware" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedwww.linkedin.com/in/mohammad-hasnian-itsoftwarein.com/in/mohammad-hasnian-itsoftware" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/hasnain.developer?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/hasnain.developer?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/hasnain._.dev/?igsh=azhobdj6zhgxcnbh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hasnain._.dev/?igsh=azhobdj6zhgxcnbh" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-## 🧠 Languages, Tools & AI/ML Stack  
-<p align="center">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainmars&show_icons=true&locale=en&layout=compact" alt="hasnainmars" /></p>
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasnainmars&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmars&layout=compact&theme=radical" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hasnainmars&theme=radical" height="200" />
-</p>
-
----
-
-## 🐍 Contribution Graph  
-<!-- Uses local files generated by the Action above -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/snake-dark.svg" />
-    <img alt="github-snake" src="assets/snake.svg" />
-  </picture>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainmars&show_icons=true&locale=en" alt="hasnainmars" /></p>
+</div>

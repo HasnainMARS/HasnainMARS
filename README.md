@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 About Me
-👋 Hi, I’m **Hasnain**, a FullStack Developer & AI/ML enthusiast from Pakistan.  
+👋 Hi, I’m **Hasnain**, a FullStack Developer & AI/ML enthusiast from Earth.  
 💻 Skilled in **Flutter, Dart, and modern backend technologies**.  
 🧠 Focused on **Machine Learning, Deep Learning, and AI research**.  
 📊 Experienced with **Python, TensorFlow, PyTorch, and Scikit-learn**.  
@@ -70,4 +70,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainmars&show_icons=true&locale=en&theme=radical" alt="hasnainmars" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasnainmars&theme=radical" alt="hasnainmars" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=hasnainmars&theme=radical" alt="hasnainmars" /></p>

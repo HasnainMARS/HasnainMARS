@@ -1,6 +1,6 @@
 <!-- Top Banner GIF (Upload your own in assets/ folder or use a hosted .gif link) -->
 <p align="center">
-  <img src="assets/ai_banner.gif" alt="AI Banner" width="85%" />
+  <img src="assets/ai_banner.gif" alt="AI Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hasnain</h1>
@@ -72,8 +72,7 @@
 <!-- If it doesn't show, run the Action once, confirm "output" branch, and add ?v=2 to bust cache -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake-dark.svg?v=2" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake.svg?v=2" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HasnainMARS/HasnainMARS/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/HasnainMARS/HasnainMARS/output/github-contribution-grid-snake.svg?v=2" />
   </picture>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainmars&show_icons=true&locale=en&layout=compact" alt="hasnainmars" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainmars&show_icons=true&locale=en" alt="hasnainmars" /></p> </div>

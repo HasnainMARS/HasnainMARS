@@ -1,0 +1,33 @@
+name: Snake (commit to assets)
+
+on:
+  schedule:
+    - cron: "0 0 * * *"     # daily 00:00 UTC
+  workflow_dispatch:         # allow manual run from Actions tab
+
+permissions:
+  contents: write            # needed to commit files
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout default branch
+        uses: actions/checkout@v4
+        with:
+          # If your default branch is 'master', change this to 'master'
+          ref: main
+
+      - name: Generate snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: hasnainmars
+          outputs: |
+            assets/snake.svg
+            assets/snake-dark.svg?palette=github-dark
+
+      - name: Commit updated snake files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "assets/snake*.svg"
+          message: "chore: update snake"

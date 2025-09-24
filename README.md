@@ -1,10 +1,10 @@
-<!-- Banner / Header -->
+<!-- Top Banner GIF (Upload your own in assets/ folder or use a hosted .gif link) -->
 <p align="center">
   <img src="assets/ai_banner.gif" alt="AI Banner" width="85%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hasnain</h1>
-<h3 align="center">🚀 FullStack Developer | 🤖 AI/ML Enthusiast | 📍 Pakistan</h3>
+<h3 align="center">🚀 FullStack DevelopervAI/ML Enthusiast</h3>
 
 ---
 
@@ -77,5 +77,9 @@
 
 ## 🐍 Contribution Graph  
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>

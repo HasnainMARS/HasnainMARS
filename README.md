@@ -4,12 +4,12 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Hasnain</h1>
-<h3 align="center">🚀 FullStack DevelopervAI/ML Enthusiast</h3>
+<h3 align="center">🚀 FullStack Developer AI/ML Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me  
-- 👋 Hi, I’m **Hasnain**, a FullStack Developer & AI/ML enthusiast from Earth.  
+- 👋 Hi, I’m **Hasnain**, a FullStack Developer & AI/ML enthusiast from Pakistan.  
 - 💻 Skilled in **Flutter, Dart, and modern backend technologies**.  
 - 🧠 Focused on **Machine Learning, Deep Learning, and AI research**.  
 - 📊 Experienced with **Python, TensorFlow, PyTorch, and Scikit-learn**.  
@@ -39,22 +39,15 @@
 
 ## 🧠 Languages, Tools & AI/ML Stack  
 <p align="center">
-  <!-- Languages -->
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-  <!-- AI/ML -->
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-
-  <!-- Backend -->
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-
-  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -76,10 +69,10 @@
 ---
 
 ## 🐍 Contribution Graph  
+<!-- If it doesn't show, run the Action once, confirm "output" branch, and add ?v=2 to bust cache -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake-dark.svg?v=2" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake.svg?v=2" />
   </picture>
 </p>

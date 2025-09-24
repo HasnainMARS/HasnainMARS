@@ -1,73 +1,81 @@
-<!-- Top Banner GIF (Upload your own in assets/ folder or use a hosted .gif link) -->
+<!-- Banner / Header -->
 <p align="center">
-  <img src="assets/ai_banner.gif" alt="AI Banner" width="80%" />
+  <img src="assets/ai_banner.gif" alt="AI Banner" width="85%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hasnain</h1>
-<h3 align="center">A passionate FullStack & AI/ML developer from Pakistan</h3>
+<h3 align="center">🚀 FullStack Developer | 🤖 AI/ML Enthusiast | 📍 Pakistan</h3>
 
 ---
 
-### 👨‍💻 About Me
-👋 Hi, I’m **Hasnain**, a FullStack Developer & AI/ML enthusiast from Earth.  
-💻 Skilled in **Flutter, Dart, and modern backend technologies**.  
-🧠 Focused on **Machine Learning, Deep Learning, and AI research**.  
-📊 Experienced with **Python, TensorFlow, PyTorch, and Scikit-learn**.  
-🚀 Passionate about building **scalable, intelligent applications**.  
-🌱 Currently expanding my expertise in **backend development**.  
-📫 Reach out: **hasnain.edu1@gmail.com**  
+## 👨‍💻 About Me  
+- 👋 Hi, I’m **Hasnain**, a FullStack Developer & AI/ML enthusiast from Earth.  
+- 💻 Skilled in **Flutter, Dart, and modern backend technologies**.  
+- 🧠 Focused on **Machine Learning, Deep Learning, and AI research**.  
+- 📊 Experienced with **Python, TensorFlow, PyTorch, and Scikit-learn**.  
+- 🚀 Passionate about building **scalable, intelligent applications**.  
+- 🌱 Currently expanding my expertise in **backend development**.  
+- 📫 Reach out: **hasnain.edu1@gmail.com**  
 
 ---
 
-<!-- Right side GIF (Upload your own gif or use direct URL) -->
-<img align="right" alt="AI Developer" width="250" src="assets/ai_coding.gif" />
-
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://linkedin.com/in/mohammad-hasnian-itsoftware" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/hasnain.developer" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-</a>
-<a href="https://www.instagram.com/hasnain._.dev" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://linkedin.com/in/mohammad-hasnian-itsoftware" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/hasnain.developer" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/hasnain._.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:hasnain.edu1@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🧠 Languages, Tools & AI/ML Stack
-<p align="left">
-  <!-- Core Dev -->
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  
-  <!-- Backend / API -->
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-
-  <!-- Design -->
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+## 🧠 Languages, Tools & AI/ML Stack  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
   <!-- AI/ML -->
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scikitlearn.svg" alt="scikit-learn" width="40" height="40"/> </a>
-  <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hasnainmars&show_icons=true&locale=en&layout=compact&theme=radical" alt="hasnainmars" />
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnainmars&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmars&layout=compact&theme=radical" height="170" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasnainmars&show_icons=true&locale=en&theme=radical" alt="hasnainmars" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=hasnainmars&theme=radical" height="200" />
+</p>
 
-<p><img align="center" src="https://streak-stats.demolab.com?user=hasnainmars&theme=radical" alt="hasnainmars" /></p>
+---
+
+## 🐍 Contribution Graph  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hasnainmars/hasnainmars/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>

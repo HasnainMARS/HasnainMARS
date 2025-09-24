@@ -1,6 +1,6 @@
 <!-- Top Banner GIF (Upload your own in assets/ folder or use a hosted .gif link) -->
 <p align="center">
-  <img src="assets/ai_banner.gif" alt="AI Banner" width="85%" />
+  <img src="assets/ai_banner.gif" alt="AI Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Hasnain</h1>

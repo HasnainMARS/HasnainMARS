@@ -11,11 +11,13 @@
 <!-- Right side GIF (place your own gif in assets folder or use a direct gif link) -->
 <img align="right" alt="AI Developer" width="250" src="assets/ai_coding.gif" />
 
-- 🔭 I’m currently working on **AI/ML, Deep Learning and Flutter**
-- 🌱 I’m currently learning **Backend Development**
-- 💬 Ask me about **AI/ML, Deep Learning, Flutter, and Dart**
-- 📫 How to reach me: **hasnain.edu1@gmail.com**
-- 😄 Fun fact: **I’m coming into my teen years while building cool tech**
+👋 Hi, I’m Hasnain, a FullStack Developer & AI/ML enthusiast from Pakistan.
+💻 Skilled in Flutter, Dart, and modern backend technologies.
+🧠 Focused on Machine Learning, Deep Learning, and AI research.
+📊 Experienced with Python, TensorFlow, PyTorch, and Scikit-learn.
+🚀 Passionate about building scalable, intelligent applications.
+🌱 Currently expanding my expertise in backend development.
+📫 Reach out: hasnain.edu1@gmail.com.
 
 ---
 

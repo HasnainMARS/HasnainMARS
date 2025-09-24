@@ -58,6 +58,6 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?HasnainMars=hasnainmars&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?HasnainMars=hasnainmars&layout=compact&theme=radical" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasnainmars&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnainmars&layout=compact&theme=radical" height="175" />
 </p>

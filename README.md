@@ -58,7 +58,9 @@
 ## 🎓 Certifications
 
 ### Cisco Data Analytics Essentials
-[![Cisco Badge](./assets/cisco-data-analytics-badge.png)](https://www.credly.com/badges/e8c52c15-5b2e-4928-ace6-38390a453343/public_url)
+<a href="https://www.credly.com/badges/e8c52c15-5b2e-4928-ace6-38390a453343/public_url">
+  <img src="./assets/cisco-data-analytics-badge.png" alt="Cisco Data Analytics Essentials Badge" width="200"/>
+</a>
 
 I have successfully completed the **Cisco Data Analytics Essentials** certification through Cisco Networking Academy.  
 

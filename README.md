@@ -55,6 +55,20 @@
 </p>
 
 ---
+## 🎓 Certifications
+
+### Cisco Data Analytics Essentials
+[![Cisco Badge](./assets/cisco-data-analytics-badge.png)](https://www.credly.com/badges/e8c52c15-5b2e-4928-ace6-38390a453343/public_url)
+
+I have successfully completed the **Cisco Data Analytics Essentials** certification through Cisco Networking Academy.  
+
+Key skills gained:  
+- Data collection & preparation  
+- Data visualization & interpretation  
+- Using tools like **Excel, SQL, Tableau**  
+- Applying data-driven decision-making  
+
+🔗 [Verify Credential on Credly](https://www.credly.com/badges/e8c52c15-5b2e-4928-ace6-38390a453343/public_url)
 
 ## 📊 GitHub Stats  
 <p align="center">
